@@ -1,0 +1,46 @@
+html{
+    height: 100%;
+}
+
+body{
+    
+    margin:0;
+
+    padding:0;
+
+    font-family: sans-serif;
+
+    background: linear-gradient(#141e30, #243b55);
+}
+
+.main-top-nav{
+
+    
+}
+
+.top-nav{
+    float: right;
+    margin: 15px;
+}
+
+.top-nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+.top-nav a:hover{
+
+    border: 1px solid gold;
+    border-radius: 25px;
+}
+
+.hm-name{
+    margin: 15px;
+    font-weight: 120px;
+    font-size: 30px;
+}
+.hm-name a{
+    text-align: left;
+    text-decoration: none;
+}
